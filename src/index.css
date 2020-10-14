@@ -1,0 +1,146 @@
+@import url("https://fonts.google.com/specimen/Ubuntu?sidebar.open=true&selection.family=Mulish:wght@600;700|Ubuntu:wght@500");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Muli",sans-serif;
+}
+
+#hh{
+  font-weight: bolder;
+  font-family: "Muli",sans-serif;
+}
+
+.navbar{
+  background-color: #fff !important;
+}
+
+.navbar-brand{
+  font-size: 2.1rem !important;
+  color:rgb(124, 122, 122)!important; 
+  font-weight: bold;
+}
+
+.navbar a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.navbar a:hover{
+  color: #3498db !important;
+}
+
+@media (max-width: 991px){
+  .navbar-brand{
+    font-size: 1.5rem !important;
+  }
+  .menu_active{
+    font-weight: bold;
+    border-bottom: none;
+  }
+}
+
+
+#header{
+  width: 100%;
+  height: 80vh;
+  margin-top: 70px;
+}
+
+#header h1{
+  margin: 0  0 10px 0;
+  font-size: 30px;
+  font-weight: bolder;
+  color: black;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#header .brand-name{
+  color: #3498db;
+  font-weight: bold;
+}
+
+#header h3{
+  color: #484848;
+  font-size: 20px;
+  
+ 
+}
+
+#header .btn-get-started{
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px ;
+  border-color: #3498db;
+  transition: 0.5s;
+  color: 2px solid #6fbbee;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#header .btn-get-started:hover{
+  background: #3498db;
+  color: #fff;
+}
+
+.header-img{
+  text-align: right;
+}
+
+#header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down{
+  0%{
+    transform:translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down{
+  0%{
+    transform:translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+
+@media (max-width:991px){
+  #header{
+    height: 80vh;
+    text-align: center;
+  }
+  #header .header-img{
+    text-align: center;
+  }
+  #header .header-img img{
+    width: 60%;
+  }
+}
+@media (max-width:768px){
+  #header{
+    margin-top: 20px;
+  }
+  #header h1{
+    font-size: 28px;
+  }
+  #header h2{
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  #header .header-img img{
+    width: 70%;
+  }
+}
