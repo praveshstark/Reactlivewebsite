@@ -1,7 +1,19 @@
 import web from '../src/images/img2.jpeg';
 import web1 from '../src/images/img3.jpeg';
-
-
+import web2 from '../src/images/img4.jpeg';
+import web3 from '../src/images/img5.jpeg';
+import web5 from '../src/images/img6.jpg';
+import web55 from '../src/images/img55.jpg';
+import web6 from '../src/images/img7.jpg';
+import web7 from '../src/images/img8.jpg';
+import web9 from '../src/images/img9.jpg';
+import web10 from '../src/images/img10.jpeg';
+import web11 from '../src/images/img11.jpeg';
+import web12 from '../src/images/img12.jpg';
+import web13 from '../src/images/img13.jpeg';
+import web14 from '../src/images/img14.jpeg';
+import web15 from '../src/images/img15.jpg';
+import web16 from '../src/images/img16.jpg';
 const Sdata=[
     {
         imgsrc:web1,
@@ -9,59 +21,74 @@ const Sdata=[
         text:  "Majakiya Andaz",
     },
     {
-        imgsrc:web,
+        imgsrc:web2,
         title: "Yash",
-        text:  "Saanp",
+        text:  "Saanp #bahutaatahishe",
     },
     {
-        imgsrc:web,
-        title: "3AM",
-        text:  "Ek baat btau hmm bta aare rhne de After 2min dhekh ye huaa",
+        imgsrc:web3,
+        title: "Sexy",
+        text:  "Ek baat btau bta... After 2min dhekh ye huaa",
     },
     {
-        imgsrc:web,
+        imgsrc:web14,
+        title: "Gazi",
+        text:  "Amazon #onlineshoppinglover",
+    },
+    {
+        imgsrc:web55,
         title: "Groza",
         text:  "Shaana shaane chloge",
     },
     {
-        imgsrc:web,
+        imgsrc:web5,
         title: "Smarty",
         text:  "Daantata rhta h",
     },
     {
-        imgsrc:web,
+        imgsrc:web6,
         title: "Ganja",
         text:  "Maa chod dunga",
     },
     {
-        imgsrc:web,
+        imgsrc:web7,
         title: "Chaalbaaz",
         text:  "Chaalbaaz-The Topper",
     },
     {
-        imgsrc:web,
+        imgsrc:web9,
         title: "Pali",
         text:  "Project m coding kon krega-Pali",
     },
     {
-        imgsrc:web,
+        imgsrc:web10,
         title: "Shudhanshu",
         text:  "Porn chahiye-To Shudhanshu k pass jao",
     },
     {
-        imgsrc:web,
+        imgsrc:web11,
         title: "Yadav",
-        text:  "or kaise ho bhai",
+        text:  "or kaise ho bhai-kaise ho VK",
     },
     {
-        imgsrc:web,
+        imgsrc:web12,
         title: "VK",
         text:  "IGL",
     },
     {
-        imgsrc:web,
+        imgsrc:web13,
         title: "Varun",
         text:  "BTS",
+    },
+    {
+        imgsrc:web15,
+        title: "Shashank",
+        text:  "Ab hoga Bhaokal",
+    },
+    {
+        imgsrc:web16,
+        title: "Or Koi",
+        text:  "Abhi tak to nhi...kch kro yrr Chirag,Satyam",
     },
     
 ];

@@ -11,6 +11,24 @@
   font-weight: bolder;
   font-family: "Muli",sans-serif;
 }
+#mem{
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+.card-img-top {
+  width: 100%;
+  height: 20vw;
+  object-fit: cover;
+}
+
+#ccc{
+  width: 450px;
+  height: 350px;
+ 
+  border-radius:20px;
+  padding: 1%;
+}
 
 .navbar{
   background-color: #fff !important;

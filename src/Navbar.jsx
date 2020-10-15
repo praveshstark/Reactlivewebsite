@@ -26,6 +26,9 @@ const Navbar=()=>{
                 <NavLink activeClassName='menu_active' exact className="nav-link" to="/service">Group</NavLink>
             </li>
             <li className="nav-item">
+                <NavLink activeClassName='menu_active' exact className="nav-link" to="/gallery">Gallery</NavLink>
+            </li>
+            <li className="nav-item">
                 <NavLink activeClassName='menu_active' exact className="nav-link" to="/about">About</NavLink>
             </li>
             <li className="nav-item">

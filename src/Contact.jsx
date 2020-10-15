@@ -22,7 +22,7 @@ const Contact=()=>{
 
   const formSubmit=(e)=>{
     e.preventDefault();
-    alert(`My name is ${data.fullname} , my phone Node. is ${data.phone} , email ID is ${data.email} and Message is ${data.msg}` );
+    alert(`My name is ${data.fullname} , my phone Node. is ${data.phone} , email ID is ${data.email} and Message is ${data.msg} !THANKS FOR CONTACT` );
   };
     return(
         <>
