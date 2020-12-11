@@ -28,12 +28,12 @@ const Sdata=[
     {
         imgsrc:web3,
         title: "Sexy",
-        text:  "Ek baat btau bta... After 2min dhekh ye huaa",
+        text:  "Ek baat btau bta...chl rehne de...After 2min dhekh ye huaa",
     },
     {
         imgsrc:web14,
         title: "Gazi",
-        text:  "Amazon #onlineshoppinglover",
+        text:  "Amazon hai iski dukaan #onlineshoppinglover",
     },
     {
         imgsrc:web55,
@@ -63,7 +63,7 @@ const Sdata=[
     {
         imgsrc:web10,
         title: "Shudhanshu",
-        text:  "Porn chahiye-To Shudhanshu k pass jao",
+        text:  "Exotic porn collection ka iklauta maalik",
     },
     {
         imgsrc:web11,
